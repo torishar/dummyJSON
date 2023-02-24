@@ -1,0 +1,17 @@
+//
+//  dummyJSONApp.swift
+//  dummyJSON
+//
+//  Created by Viktoriia Sharukhina on 19.02.2023.
+//
+
+import SwiftUI
+
+@main
+struct dummyJSONApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
